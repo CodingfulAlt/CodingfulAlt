@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Borislav Minkov!
+**# 👋 Hi, I'm Borislav Minkov!
 
 🎓 **4th-year Software Engineering student** [@ Plovdiv University "Paisii Hilendarski"](https://uni-plovdiv.bg/en/)
 🤖 **Full-Stack Developer & AI Automation Specialist** building custom business automations, web apps, and desktop tools  
@@ -37,3 +37,4 @@
 - ✉️ **Email:** bmcodingacc@gmail.com
 - 🌐 **Website:** [nerorift.vercel.app](https://nerorift.vercel.app/)
 - 🗣️ **Languages:** Bulgarian (Native) | English (C1) | German (A2)
+**
