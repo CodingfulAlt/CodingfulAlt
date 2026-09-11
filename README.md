@@ -1,8 +1,8 @@
-**# 👋 Hi, I'm Borislav Minkov!
+# 👋 Hi, I'm Borislav Minkov!
 
-🎓 **4th-year Software Engineering student** [@ Plovdiv University "Paisii Hilendarski"](https://uni-plovdiv.bg/en/)
-🤖 **Full-Stack Developer & AI Automation Specialist** building custom business automations, web apps, and desktop tools  
-⚙️ **Specialties:** Business Workflows, AI Integration (OpenAI / LLMs), Web Scraping & Software Solutions  
+🎓 **4th-year Software Engineering student** [@ Plovdiv University "Paisii Hilendarski"](https://uni-plovdiv.bg/en/)<br>
+🤖 **Full-Stack Developer & AI Automation Specialist** building custom business automations, web apps, and desktop tools<br>
+⚙️ **Specialties:** Business Workflows, AI Integration (OpenAI / LLMs), Web Scraping & Software Solutions
 
 ---
 
@@ -15,12 +15,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce_API-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Anthropic](https://shields.io)
-![Pinecone](https://shields.io)
-![LangChain](https://shields.io)
 
-**AI & Workflow Stack:** n8n | Make | OpenAI API / LLM Agents | Python Automation | Webhooks & REST APIs
+**AI & Workflow Stack:** n8n | Make | LangChain / LangGraph | Pinecone | OpenAI & Anthropic APIs | Salesforce API | Webhooks & REST APIs
 
 ---
 
@@ -37,4 +36,3 @@
 - ✉️ **Email:** bmcodingacc@gmail.com
 - 🌐 **Website:** [nerorift.vercel.app](https://nerorift.vercel.app/)
 - 🗣️ **Languages:** Bulgarian (Native) | English (C1) | German (A2)
-**
