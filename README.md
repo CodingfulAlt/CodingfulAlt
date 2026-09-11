@@ -16,6 +16,9 @@
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Anthropic](https://shields.io)
+![Pinecone](https://shields.io)
+![LangChain](https://shields.io)
 
 **AI & Workflow Stack:** n8n | Make | OpenAI API / LLM Agents | Python Automation | Webhooks & REST APIs
 
