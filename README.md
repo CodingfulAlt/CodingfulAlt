@@ -1,62 +1,36 @@
-# Hi, I'm Borislav 👋
+# 👋 Hi, I'm Borislav Minkov!
 
-I'm a 4th-year Software Engineering student at Plovdiv University "Paisii Hilendarski." I build web applications, desktop software, automation tools, and practical developer utilities.
-
-## 🚀 What I Work With
-
-**Frontend**
-- React
-- Vue
-- JavaScript
-- HTML / CSS
-
-**Backend / Full Stack**
-- Java
-- Python
-- C# / .NET
-
-**Other**
-- WordPress
-- AI Automation
-- Desktop Application Development
-- Git / GitHub
-
-## 🛠️ What I Build
-
-- Full-stack and frontend web applications
-- Desktop and Windows applications
-- Python scripts and automation tools
-- AI-powered automation solutions
-- WordPress websites
-- Personal developer tools and utilities
-
-## 🌐 Featured Projects
-
-### [NeroRift](https://nerorift.vercel.app/)
-A dedicated platform where I share scripts, PC tools, userscripts, and Windows applications built for practical daily use.
-
-### More projects coming soon
-Currently developing new software projects that will be featured here upon launch.
-you can check extra tools or paid ones here: [Extras](https://buymeacoffee.com/codingful/extras)
-
-## 📚 Currently Learning
-
-- Refining full-stack development skills
-- Building production-ready applications
-- Exploring practical AI integrations and automation workflows
-- Expanding experience with modern web frameworks
-
-## 🌍 Languages
-
-- **Bulgarian:** Native
-- **English:** C1
-- **German:** A2
-
-## 📫 Contact
-- **Email:** bmcodingacc@gmail.com
-- **Website:** [NeroRift](https://nerorift.vercel.app/)
-- **Extras & Tools:** [Buy Me a Coffee](https://buymeacoffee.com/codingful/extras)
+🎓 **4th-year Software Engineering student** @ Plovdiv University "Paisii Hilendarski"  
+💡 **Full-Stack & Frontend Developer** focused on React, Vue, WordPress & AI Automation  
+⚙️ **Building** web apps, desktop software, automation scripts, and practical developer utilities  
 
 ---
 
-*Always building, learning, and experimenting with new ideas.*
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## 🌐 Featured Projects
+
+- 🌐 **[NeroRift](https://nerorift.vercel.app/)** – Platform for scripts, PC utilities, userscripts, and Windows applications.
+- ☕ **[Buy Me a Coffee Extras](https://buymeacoffee.com/codingful/extras)** – Additional standalone tools and Windows applications.
+- 🚀 **Upcoming Projects** – Full-stack and web applications currently in development.
+
+---
+
+## 📬 Contact & Info
+
+- ✉️ **Email:** bmcodingacc@gmail.com
+- 🌐 **Website:** [nerorift.vercel.app](https://nerorift.vercel.app/)
+- 🗣️ **Languages:** Bulgarian (Native) | English (C1) | German (A2)
