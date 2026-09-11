@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Featured Projects & Solutions
+## 🌐 Featured Projects and Sites
 
 - 🌐 **[NeroRift](https://nerorift.vercel.app/)** – Platform for custom scripts, PC tools, userscripts, and Windows applications.
 - ☕ **[Extras](https://buymeacoffee.com/codingful/extras)** – Additional standalone tools and applications.
