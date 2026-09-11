@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Borislav Minkov!
 
-🎓 **4th-year Software Engineering student** @ Plovdiv University "Paisii Hilendarski"  
+🎓 **4th-year Software Engineering student** [@ Plovdiv University "Paisii Hilendarski"](https://uni-plovdiv.bg/en/)
 🤖 **Full-Stack Developer & AI Automation Specialist** building custom business automations, web apps, and desktop tools  
 ⚙️ **Specialties:** Business Workflows, AI Integration (OpenAI / LLMs), Web Scraping & Software Solutions  
 
