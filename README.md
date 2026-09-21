@@ -35,5 +35,5 @@
 ## 📬 Contact & Info
 
 - ✉️ **Email:** bmcodingacc@gmail.com
-- 🌐 **Website:** [nerorift.vercel.app](https://nerorift.vercel.app/)
+- 🌐 **Website:** [LeapOps](https://Leap-ops.com)
 - 🗣️ **Languages:** Bulgarian (Native) | English (C1) | German (A2)
