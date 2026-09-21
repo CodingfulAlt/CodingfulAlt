@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Featured Projects and Sites
-
+- 🏢 **[LeapOps](Leap-ops.com)** – Custom AI automation engines, workflow automation, and automated systems for handling repetitive business tasks.
 - 🌐 **[NeroRift](https://nerorift.vercel.app/)** – Platform for custom scripts, PC tools, userscripts, and Windows applications.
 - ☕ **[Extras](https://buymeacoffee.com/codingful/extras)** – Additional standalone tools and applications.
 - ⚙️ **AI & Business Automations** – Workflow automation engines, automated web scrapers, and AI integration for business processes.
