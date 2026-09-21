@@ -29,7 +29,6 @@
 - 🌐 **[NeroRift](https://nerorift.vercel.app/)** – Platform for custom scripts, PC tools, userscripts, and Windows applications.
 - 🗻 **[Cairn](https://github.com/CodingfulAlt/Cairn/releases/tag/v1.0.0)** – Simple, privacy-focused Android habit tracker built with Material 3, requiring zero accounts, ads, or internet.
 - ☕ **[Extras](https://buymeacoffee.com/codingful/extras)** – Additional standalone tools and applications.
-- ⚙️ **AI & Business Automations** – Workflow automation engines, automated web scrapers, and AI integration for business processes.
 
 ---
 
