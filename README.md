@@ -27,7 +27,7 @@
 ## 🌐 Featured Projects and Sites
 - 🏢 **[LeapOps](https://Leap-ops.com)** – Custom AI automation engines, workflow automation, and automated systems for handling repetitive business tasks.
 - 🌐 **[NeroRift](https://nerorift.vercel.app/)** – Platform for custom scripts, PC tools, userscripts, and Windows applications.
-- 🗻 **[Cairn]([https://codingfulalt.github.io/Cairn/])** – Simple, open-source, privacy-focused Android habit tracker built with Material 3, requiring zero accounts, ads, or internet.
+- 🗻 **[Cairn](https://codingfulalt.github.io/Cairn/)** – Simple, open-source, privacy-focused Android habit tracker built with Material 3, requiring zero accounts, ads, or internet.
 - ☕ **[Extras](https://buymeacoffee.com/codingful/extras)** – Additional standalone tools and applications.
   
 ---
